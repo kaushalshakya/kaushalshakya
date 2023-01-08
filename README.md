@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kaushalshakya
 - 👀 I’m a software engineering student from Virinchi College
-- 🌱 I’m currently learning JavaScript, React.js and Node.js
+- 🌱 I’m currently learning JavaScript, React.js and Python
 - 📫 How to reach me: Email me at kshakya101@gmail.com or dm me in instagram @_kaushalshakya
 
 <!---
