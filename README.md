@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kaushalshakya
 - 👀 I’m a software engineering student from Virinchi College
-- 🌱 I’m currently learning Python, Django and Reactjs 
+- 🌱 I’m currently learning Python, Django, Nodejs and Reactjs 
 - 📫 How to reach me: Email me at kshakya101@gmail.com or dm me in instagram @_kaushalshakya
 
 <!---
