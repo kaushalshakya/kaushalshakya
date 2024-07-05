@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @kaushalshakya
 - 👀 I’m a learner and an aspiring software developer from Lalitpur, Nepal
 - 🌱 I’m currently learning Nodejs, and Reactjs 
-- 📫 How to reach me: Email: kshakya101@gmail.com or LinkedIn: https://www.linkedin.com/in/kaushal-shakya/
+- 📫 How to reach me: Email: kshakya101@gmail.com
